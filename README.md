@@ -2,9 +2,9 @@
 
 Ket requirements: company needs documentation that salaried employees did or did not get overtime each week
 
-Post -> date:date rationale:text  
-User -> Devise  
-AdminUser -> STI  
+- Post -> date:date rationale:text  
+x User -> Devise  
+- AdminUser -> STI  
 
 Features:  
 - Approval Workflow  
